@@ -1,6 +1,13 @@
 # yt_flutter_movie_db
 
-A new Flutter project.
+This project using 2 API :
+- First API for regis and login using : https://demoapi-hilmy.sanbercloud.com/
+- For Movie DB using : https://api.themoviedb.org/3
+
+## For testing
+login:
+    - email = coba2@gmail.com
+    - password = 12345678
 
 ## Getting Started
 
