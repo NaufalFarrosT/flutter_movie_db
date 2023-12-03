@@ -1,4 +1,4 @@
-# yt_flutter_movie_db
+# flutter_movie_db
 
 This project using 2 API :
 - First API for regis and login using : https://demoapi-hilmy.sanbercloud.com/
